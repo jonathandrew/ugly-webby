@@ -1,19 +1,19 @@
 h1 {
-    color: #111;
+    color: rgb(75, 00, 00);
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 275px;
-    font-weight: bold;
-    letter-spacing: -1px;
-    line-height: 1;
-    text-align: center;
+    font-size: 50px;
+    font-weight: inherit;
+    letter-spacing: -40px;
+    line-height: 5;
+    text-align: right;
 }
 
 p {
-    color: #685206;
+    color: #ce13af;
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0 0 24px;
+    font-size: 30px;
+    line-height: 5px;
+    margin: 0 5 5px;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -49,4 +49,11 @@ form {
 input, textarea {
     padding:5px;
     margin:5px
+}
+
+h3 
+{color: #685306;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 1in;
+text-align: right;
 }
