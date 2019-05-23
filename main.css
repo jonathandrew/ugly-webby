@@ -27,6 +27,8 @@ textarea {
 ul, ol {
     margin: 20px;
     padding: 0;
+    background-color: aqua;
+    text-align: right
 }
 
 li {
@@ -42,7 +44,7 @@ form {
     height:110px;
     width:190px;
     margin:auto;
-    border:1px #CCC solid;
+    border:5px #CCC solid;
     padding:10px;
 }
     
