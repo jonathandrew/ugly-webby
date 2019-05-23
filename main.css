@@ -33,7 +33,7 @@ ul, ol {
 
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 20px solid rgb(226, 4, 197);
 }
    
 li:last-child {
@@ -59,3 +59,9 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 letter-spacing: 1in;
 text-align: right;
 }
+
+div
+{color: yellow;
+    background-color: black
+}
+
