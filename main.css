@@ -3,7 +3,7 @@ h1 {
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 50px;
     font-weight: inherit;
-    letter-spacing: -40px;
+    letter-spacing: -67px;
     line-height: 5;
     text-align: right;
 }
@@ -69,9 +69,9 @@ div
 
 ol{ color: rgb(252, 28, 4)}
 
-textarea{ color: cornflowerblue;font-size: 3cm;
+textarea{ color: cornflowerblue;font-size: 2cm;
     font-family: cursive;
-    font-style: oblique
+    font-style: oblique;
 }
 
 form{background-color: #ce13af;
