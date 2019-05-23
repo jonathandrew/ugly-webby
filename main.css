@@ -49,8 +49,10 @@ form {
 }
     
 input, textarea {
-    padding:5px;
-    margin:5px
+    padding:20px;
+    margin:20px;
+    color: chocolate;
+    font-size: 30px
 }
 
 h3 
@@ -64,4 +66,14 @@ div
 {color: yellow;
     background-color: black
 }
+
+ol{ color: rgb(252, 28, 4)}
+
+textarea{ color: cornflowerblue;font-size: 3cm;
+    font-family: cursive;
+    font-style: oblique
+}
+
+form{background-color: #ce13af;
+border-color: aquamarine;}
 
